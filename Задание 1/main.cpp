@@ -1,3 +1,9 @@
+/*
+Задание 1
+
+Дата выполнения: 26 февраля 2024
+*/
+
 #include <iostream>
 #include <vector>
 #include <iomanip>
